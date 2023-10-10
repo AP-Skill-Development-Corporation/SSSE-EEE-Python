@@ -5,3 +5,8 @@ Python Basics for 3rd years
   - Python Downloads, Installation and Configuration of it
   - Python Version check, Different ways to execute python programs
   - Basic Procedure,Advanced Editor,IDLE and Pip Version Check, Upgrade of pip
+
+## Day-02(10-10-2023):
+  - Jupyter Notebook Installation,Overview of it and Running of it
+  - Python basics like Variables, Assignment of Variables, data types, operators etc.,
+  - Type, typecasting, Input and Output Formatting with sample examples on each 
