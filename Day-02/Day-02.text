@@ -1,0 +1,47 @@
+Day-02[10-10-2023]:
+===================
+	Good Morning All...
+
+	Jupyter notebook:
+	=================
+		- cmd
+		- pip install jupyter notebook
+	> To run python files in jupyter notebook first we need to install jupyter or else we can install anaconda software or vscode or pycharm. In anaconda it exists some python library and packages related to it. In pycharm and vscode the extension will be accessed
+	> Jupyter notebook will be installed by using pip command
+
+	Running of Jupyter notebook:
+	============================
+		- cmd
+		- jupyter notebook
+
+	Jupyter Notebook = Literate Programming
+	Literate Programming => Coding + Documentation
+
+	Commands used in Jupyter notebook:
+	==================================
+	esc + m => Changes from code to markdown
+	esc + y => Changes from markdown to code
+	cntrl + enter => Executes present cell
+	shift + enter => Executes and select below
+	alt + enter => Executes and insert cell below
+	cntrl + d d => Deletes a cell
+	esc + a => Insert cell above
+	esc + b => Insert cell below
+
+	One cell = one program file code
+
+	> In Jupyter notebook it consists of 2 formats they are
+		- Coding format
+		- Markdown format
+		In these each formats it consists of 2 modes they are
+			- code mode
+			- edit mode
+
+	Task:
+	=====
+		Concepts:
+		=========
+			- Conditional Statements,Looping and Jumping Statements
+			- Inner Loops or Nested Loops
+			- Functions and its types
+			- User Defined Function Types
