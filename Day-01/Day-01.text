@@ -140,3 +140,14 @@ Day-01[09-10-2023]:
 	> We need to change the location of saving file where user can be defined we need to save the file with only filename because by default the file will saves as python file because the file is opened through python shell
 	> After saving we need to code then the file can be executed by clicking on run option existing in top of the file. We can use the shortcut to execute such as "f5"
 	> It will displays the output in a shell
+
+
+	Task:
+	=====
+		Concepts:
+		=========
+			- Introduction to Python
+			- History,Advantages and Disadvantages of Python
+			- Applications of Python
+			- Data Types, Operators, Conditional Statements
+			- Looping and Jumping Statements
