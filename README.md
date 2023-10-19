@@ -23,3 +23,8 @@ Python Basics for 3rd years
   - Functions Overview
   - User Defined Function Types with sample examples on each
   - Practiced some hackerrank problems
+
+## Day-06(14-10-2023):
+  - Function argument types with sample examples on each
+  - Data Structures Overview
+  - List,Tuple,Set,String,Dictionary and its methods with sample examples on each
