@@ -18,3 +18,8 @@ Python Basics for 3rd years
 ## Day-04(12-10-2023):
   - Loops Overview,range and sample examples on each
   - Jumping Statements, Inner Loops with sample examples on each
+
+## Day-05(13-10-2023):
+  - Functions Overview
+  - User Defined Function Types with sample examples on each
+  - Practiced some hackerrank problems
